@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<root xmlns:yh="https://preprod.yopa.co.uk"
+xmlns:m="http://pp-martools.yopa.co.uk">
+<yh:users>
+   <yh:user id="727">
+      <yh:firstname>David</yh:firstname>
+      <yh:lastname>Higham</yh:lastname>
+      <yh:email>david.higham@yopa.co.uk</yh:email>
+      <yh:password>dinkar</yh:password>
+   </yh:user>
+  <yh:user id="725">
+        <yh:firstname>Lee</yh:firstname>
+        <yh:lastname>Wall</yh:lastname>
+        <yh:email>lee.wall@yopa.co.uk</yh:email>
+        <yh:password>dinkar</yh:password>
+  </yh:user>
+  <yh:user id="729">
+         <yh:firstname>Barry</yh:firstname>
+         <yh:lastname>Attree</yh:lastname>
+         <yh:email>barry.attree@yopa.co.uk</yh:email>
+         <yh:password>dinkar</yh:password>
+  </yh:user>
+</yh:users>
+<m:users>
+   <m:user id="8264">
+      <m:firstname>Vic</m:firstname>
+      <m:lastname>Test</m:lastname>
+      <m:email>victoria.thatcher@yopa.co.uk</m:email>
+      <m:password>dinkar</m:password>
+   </m:user>
+</m:users>
+</root>

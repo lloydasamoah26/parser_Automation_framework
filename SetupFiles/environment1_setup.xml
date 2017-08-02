@@ -1,0 +1,16 @@
+<settings>
+    <yopadomain>http://local.yopa.co.uk</yopadomain>
+    <marketingdomain>http://mar.yopa.co.uk</marketingdomain>
+    <cloudfrontdomain>https://duxu19ubnmerm.cloudfront.net</cloudfrontdomain>
+    <browser>chrome</browser>
+    <debug>true</debug>
+</settings>
+
+<database>
+    <dbUserName>homestead</dbUserName>
+    <dbPassword>secret</dbPassword>
+    <dbServerName>localhost</dbServerName>
+    <dbName>api</dbName>
+    <dbPortNumber>3306</dbPortNumber>
+    <dbType>mysql</dbType>
+</database>
