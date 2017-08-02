@@ -5,5 +5,5 @@ package Utils;
  */
 public class Settings {
 
-    
+
 }
